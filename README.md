@@ -1,7 +1,11 @@
 # Paid membership plugin for NodeBB
 
-<p align="center">>
+<p align="center">
     <img src="https://raw.githubusercontent.com/botaniQQQ/nodebb-plugin-paid-membership/master/static/images/logo.png">
+</p>
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/botaniQQQ/nodebb-plugin-paid-membership/master/static/images/pay.png">
 </p>
 
 > The plugin allows you to monetize your forum at the expense of paid members
@@ -23,4 +27,3 @@
 <p align="center">
     <img src="https://raw.githubusercontent.com/botaniQQQ/nodebb-plugin-paid-membership/master/static/images/settings.png">
 </p>
-  
