@@ -1,0 +1,35 @@
+{
+  "name": "nodebb-plugin-paid-membership",
+  "version": "1.0.0",
+  "description": "The plugin allows you to monetize your forum at the expense of paid members",
+  "main": "library.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/botaniQQQ/nodebb-plugin-paid-membership"
+  },
+  "keywords": [
+    "nodebb",
+    "plugin",
+    "interkassa",
+    "subscriptions",
+    "monetization",
+    "paid",
+    "membership",
+    "payment"
+  ],
+  "author": {
+    "name": "botaniQQQ",
+    "email": "botaniq3@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/botaniQQQ/nodebb-plugin-paid-membership/issues"
+  },
+  "readmeFilename": "README.md",
+  "nbbpm": {
+    "compatibility": "^1.0.0"
+  },
+  "dependencies": {
+    "interkassa-node": "1.0.2"
+  }
+}
