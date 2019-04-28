@@ -1,26 +1,26 @@
 # Paid membership plugin for NodeBB
 
-<center>
+<p align="center">>
     <img src="https://raw.githubusercontent.com/botaniQQQ/nodebb-plugin-paid-membership/master/static/images/logo.png">
-</center>
+</p>
 
-The plugin allows you to monetize your forum at the expense of paid members
+> The plugin allows you to monetize your forum at the expense of paid members
 
-## API settings (<a href="https://interkassa.com" target="_blank">interkassa.com</a>)
+## API settings
 
-<center>
+- Create checkout on <a href="https://interkassa.com" target="_blank">interkassa.com</a>
+
+<p align="center">
     <img src="https://raw.githubusercontent.com/botaniQQQ/nodebb-plugin-paid-membership/master/static/images/create.png">
-</center>
-
-- Create checkout
-
-<center>
-    <img src="https://raw.githubusercontent.com/botaniQQQ/nodebb-plugin-paid-membership/master/static/images/settings.png">
-</center>
+</p>
 
 - Checkout settings -> Interface
   + Success URL: GET `https://example.com/?status=success`
   + Fail URL: GET `https://example.com/?status=fail`
   + Pending URL: GET `https://example.com/?status=pending`
   + Interaction URL: GET `https://example.com/interaction`
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/botaniQQQ/nodebb-plugin-paid-membership/master/static/images/settings.png">
+</p>
   
