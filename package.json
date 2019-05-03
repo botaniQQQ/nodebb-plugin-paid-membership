@@ -1,6 +1,6 @@
 {
   "name": "nodebb-plugin-paid-membership",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The plugin allows you to monetize your forum at the expense of paid members",
   "main": "library.js",
   "repository": {
